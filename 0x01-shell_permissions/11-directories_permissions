@@ -1,2 +1,2 @@
-#!/ban/bash
+#!/bin/bash
 type d -exec chmod a+x
