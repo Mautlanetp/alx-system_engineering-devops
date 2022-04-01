@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod -R ugo=+x
+#!/ban/bash
+type d -exec chmod a+x
